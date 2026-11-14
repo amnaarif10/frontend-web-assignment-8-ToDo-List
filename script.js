@@ -1,7 +1,7 @@
 
-var input = document.getElementById('input');
-var addBtn = document.querySelector('.addbtn');
-var list = document.querySelector('.list');
+let input = document.getElementById('input');
+let addBtn = document.querySelector('.addbtn');
+let list = document.querySelector('.list');
 
 
 addBtn.addEventListener('click', function() {
